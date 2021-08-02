@@ -80,11 +80,11 @@ ajax({
         if (Catseleccionada.length == 0) {
           $postElegidos.innerHTML = ""
           $posts.style.display = "flex"
-          const noHayPelicula = document.createElement("div")
+          /* const noHayPelicula = document.createElement("div")
           noHayPelicula.className = "Nohay"
           noHayPelicula.textContent = "No hay peliculas para esta categoria !!"
           $postElegidos.appendChild(noHayPelicula)
-          noHayPelicula.insertAdjacentElement("beforeend", $posts)
+          noHayPelicula.insertAdjacentElement("beforeend", $posts) */
           //si hay pelicula que coincida con el selector la imprime en pantalla
         } else {
           
