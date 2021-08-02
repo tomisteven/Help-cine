@@ -44,7 +44,7 @@ ajax({
                     $templateArticulos.querySelector(".titulo-articulo").textContent = el.Nombre
                     $templateArticulos.querySelector(".categoria-articulo").textContent = `Categoria: ${el.categoria}`
                     $templateArticulos.querySelector(".director-articulo").textContent = `Director: ${el.director}` 
-                    $templateArticulos.querySelector(".reseña-articulo").textContent = `Descripcion: ${el.reseña}`
+                    $templateArticulos.querySelector(".reseña-articulo").textContent = ` ${el.reseña}`
                     $templateArticulos.querySelector(".actores-articulo").textContent = `Actores: ${el.actores}`
                     $templateArticulos.querySelector(".puntos").textContent = el.puntos
                     //clonamos todos los posts

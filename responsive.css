@@ -479,4 +479,88 @@
         
     }
 
+/* articulo */
+#section-articulo{
+    width: 100%;
+    margin-bottom: 65px;
+}
+.contenedor{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    
+}
+.imagen-articulo img{
+    width: 95%;
+    height: auto;
+    border-radius: 10px;
+    
+}
+.img-articulo{
+    margin-top: 0px;
+    border-bottom: hidden;
+    border-top: hidden;
+}
+.descripcion-articulos{
+    margin-left: 10px;
+    margin-bottom: -10px;
+}
+.descripcion-articulos h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: red;
+}
+.descripcion-articulos h6{
+    margin-bottom: 40px;
+    font-size: 10px;
+    line-height: 25px;
+    letter-spacing: 3px;
+}
+.cont-reseña{
+    width: 95%;
+    
+}
+.reseña-articulo{
+    color: white;
+    line-height: 25px;
+    margin-top: 1px;
+    letter-spacing: 2px;
+    font-size: 10px;
+    color: rgba(255, 0, 0, 0.753);
+}
+.puntaje{
+    border: 1px solid rgb(255, 0, 0);
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    position: inherit;
+    margin-left: -10px;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    letter-spacing: 3px;
+    border-radius: 50%;
+    background-color: black;
+    color: red;
+}
+.puntaje:hover{
+    background-color: green;
+    cursor: pointer;
+    color: white;
+    border: 2px solid white;
+    transform: scale(1.1);
+    transition: all 0.2s;
+}
+.puntaje h3{
+    margin-top: 34px;
+    margin-left: 8px;
+}
+
+
 }
