@@ -1,0 +1,566 @@
+{
+    "Series": [
+        {
+        "id": "s1",
+        "categoria": "Accion",
+        "Nombre": "Lupin",
+        "Estreno": "20-05-21",
+        "img": "./img/series/lupin.jpeg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+    },
+    {
+        "id": "s2",
+        "categoria": "Ciencia Ficcion",  
+        "Nombre": "Loki",
+        "Estreno": "20-05-21",  
+        "img": "./img/series/loki.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+    }
+    ,
+    {
+        "id": "s3",
+        "categoria": "Thriller",
+        "Nombre": "Lucifer 1",
+        "Estreno": "20-05-21",
+        "img": "./img/series/lucifer1.png",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s4", 
+        "categoria": "Accion",
+        "Nombre": "The falcon: Winter Soldier",
+        "Estreno": "20-05-21",
+        "img": "./img/series/thefalcon.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s5",
+        "categoria": "Accion",
+        "Nombre": "Wanda Vision",
+        "Estreno": "20-05-21",
+        "img": "./img/series/wandavision.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s6",
+        "categoria": "Suspenso",
+        "Nombre": "Sabrina",
+        "Estreno": "20-05-21",
+        "img": "./img/series/sabrina.jpeg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s7",
+        "categoria": "Drama",
+        "Nombre": "Equinox",
+        "Estreno": "20-05-21",
+        "img": "./img/series/equinox.png",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s8",
+        "categoria": "Accion",
+        "Nombre": "The Mnandolarian",
+        "Estreno": "20-05-21",
+        "img": "./img/series/mandolarian.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s9",
+        "categoria": "Drama",
+        "Nombre": "Gambito de dama",
+        "Estreno": "20-05-21",
+        "img": "./img/series/gambitodedama.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s10",
+        "categoria": "Drama",
+        "Nombre": "Utopia",
+        "Estreno": "20-05-21",
+        "img": "./img/series/utopia.jpg",
+        "reseña": ""
+
+
+    },
+    {
+        "id": "s11",
+        "categoria": "Drama",
+        "Nombre": "Secreto bien cuidado",
+        "Estreno": "20-05-21",
+        "img": "./img/series/secretobiencuidado.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s12",
+        "categoria": "Ciencia Ficcion",
+        "Nombre": "The boys 2",
+        "Estreno": "20-05-21",
+        "img": "./img/series/theboys2.jpg",
+
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s13",
+        "categoria": "Thriller",
+        "Nombre": "Ratched",
+        "Estreno": "20-05-21",
+        "img": "./img/series/ratched.jpg",
+
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+    },
+    {
+        "id": "s14",
+        "categoria": "Thriller",
+        "Nombre": "Lucifer 5",
+        "Estreno": "20-05-21",
+        "img": "./img/series/lucifer5.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+    ,{
+        "id": "s15",
+        "categoria": "Policiacas",
+        "Nombre": "Biohackers",
+        "Estreno": "20-05-21",
+        "img": "./img/series/biohackers.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s16",
+        "categoria": "Comedia",
+        "Nombre": "Upload",
+        "Estreno": "20-05-21",
+        "img": "./img/series/upload.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s17",
+        "categoria": "Ciencia Ficcion",
+        "Nombre": "The umbrella academy",
+        "Estreno": "20-05-21",
+        "img": "./img/series/umbrelaacademy.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+    ,
+    {
+        "id": "s18",
+        "categoria": "Documental",
+        "Nombre": "Hecho en casa",
+
+        "Estreno": "20-05-21",
+        "img": "./img/series/hechoencasa.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s19",
+        "categoria": "Documental",
+        "Nombre": "Los pies en la tierra",
+        "Estreno": "20-05-21",
+        "img": "./img/series/piesenlatierra.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s20",
+        "categoria": "Fantasia",
+        "Nombre": "Maldita",
+        "Estreno": "20-05-21",
+        "img": "./img/series/maldita.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s21",
+        "categoria": "Suspenso",
+        "Nombre": "American Gods",
+        "Estreno": "20-05-21",
+        "img": "./img/series/americangods.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+    ,
+    {
+        "id": "s22",
+        "categoria": "Ciencia Ficcion",
+        "Nombre": "The Boys",
+        "Estreno": "20-05-21",
+        "img": "./img/series/theboys1.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+    ,
+    {
+        "id": "s23",
+        "categoria": "Thriller",
+        "Nombre": "Lucifer 2",
+        "Estreno": "20-05-21",
+        "img": "./img/series/lucifer2.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":"" 
+    },
+    {
+        "id": "s24",
+        "categoria": "Suspenso",
+        "Nombre": "Curon",
+        "Estreno": "20-05-21",
+        "img": "./img/series/curon.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+    ,{
+        "id": "s25",
+        "categoria": "Drama",
+        "Nombre": "Hunters",
+        "Estreno": "20-05-21",
+        "img": "./img/series/hunters.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s26",
+        "categoria": "Drama",
+        "Nombre": "Cuanto pesa la sangre ?",
+
+        "Estreno": "20-05-21",
+        "img": "./img/series/lasangre.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+    ,{
+        "id": "s27",
+        "categoria": "Suspenso",
+        "Nombre": "El presidente",
+        "Estreno": "20-05-21",
+
+        "img": "./img/series/elpresidente.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+    ,{
+        "id": "s28",
+        "categoria": "Terror",
+        "Nombre": "Dark",
+        "Estreno": "20-05-21",
+        "img": "./img/series/dark.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+    ,{
+        "id": "s29",
+        "categoria": "Suspenso",
+        "Nombre": "Control Z",
+        "Estreno": "20-05-21",
+
+        "img": "./img/series/controlz.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+    ,{
+        "id": "s30",
+        "categoria": "Drama",
+        "Nombre": "Recursos inhumanos",
+        "Estreno": "20-05-21",
+        "img": "./img/series/recursosinhumanos.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+    }
+    ,
+    {
+        "id": "s31",
+        "categoria": "Suspenso",
+        "Nombre": "The Following",
+        "Estreno": "20-05-21",
+        "img": "./img/series/thefollowing.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+        
+    },
+    {
+        "id": "s32",
+        "categoria": "Suspenso",
+        "Nombre": "Messiah",
+        "Estreno": "20-05-21",
+        "img": "./img/series/messiah.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+    ,{
+        "id": "s33",
+        "categoria": "Drama",
+        "Nombre": "The flash",
+        "Estreno": "20-05-21",
+        "img": "./img/series/theflash.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s34",
+        "categoria": "Drama",
+        "Nombre": "La cocinera de castamar",
+        "Estreno": "20-05-21",
+        "img": "./img/series/lacocineradecastamar.jpeg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+    },
+    {
+        "id": "s35",
+        "categoria": "Suspenso",
+        "Nombre": "Atypical",
+        "Estreno": "20-05-21",
+        "img": "./img/series/atypical.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s36",
+        "categoria": "Drama",
+        "Nombre": "Yo nunca",
+        "Estreno": "20-05-21",
+        "img": "./img/series/yonunca.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },{
+        "id": "s37",
+        "categoria": "Comedia",
+
+        "Nombre": "Los simuladores",
+        "Estreno": "20-05-21",
+        "img": "./img/series/lossimuladores.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s38",
+        "categoria": "Fantasia",
+        "Nombre": "Sweet tooth",
+        "Estreno": "20-05-21",
+        "img": "./img/series/Sweettooth.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+    ,{
+        "id": "s39",
+        "categoria": "Comedia",
+        "Nombre": "Maniac",
+        "Estreno": "20-05-21",
+        "img": "./img/series/maniac.jpg",
+
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s40",
+        "categoria": "Accion",
+        "Nombre": "V de venganza",
+
+        "Estreno": "20-05-21",
+        "img": "./img/series/vdevenganza.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+    ,{
+        "id": "s41",
+        "categoria": "Ciencia Ficcion",
+        "Nombre": "Mortal Kombat",
+        "Estreno": "20-05-21",
+        "img": "./img/series/mortalkombat.jpg",
+        "reseña": ""
+
+    },{
+        "id": "s42",
+        "categoria": "Comedia",
+        "Nombre": "Ha vuelto",
+        "Estreno": "20-05-21",
+        "img": "./img/series/havuelto.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    },
+    {
+        "id": "s43",
+        "categoria": "Musical",
+        "Nombre": "La la land",
+        "Estreno": "20-05-21",
+        "img": "./img/series/lalaland.jpg",
+        "reseña": "",
+        "puntos":"10/10",
+        "actores":"",
+        "director":"",
+        "año":""
+
+    }
+
+    
+
+
+]
+}

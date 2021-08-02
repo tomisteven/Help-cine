@@ -1,0 +1,31 @@
+.cartel-izq, .cartel-der{
+    width: 950px;
+    height: 550px;
+    background-color: rgb(27, 109, 241);
+    
+    margin-left: -160px;
+    margin-right: -160px;
+     transform: rotateZ(65deg);
+     
+    
+    
+
+}
+.cartel-izq img, .cartel-der img, .cartel-med img {
+
+
+    width: 100%;
+    height: 100%;
+}
+
+.cartel-med{
+width: 350px;
+height: 150px;
+background-color: black;
+margin: 3px;
+
+
+}
+.contenedor{
+    display: flex;
+}
